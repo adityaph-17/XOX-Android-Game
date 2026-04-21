@@ -82,4 +82,6 @@ The software is provided "as is" without any warranty.
 
 ⭐ If you like this project, consider giving it a star!
 
---------------------   THANK YOU  -----------------------
+---
+
+## 🙏 THANK YOU
